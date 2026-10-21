@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="500" viewBox="0 0 980 500" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#000"/></marker></defs>
+<rect width="980" height="500" fill="#fff"/>
+<rect x="30" y="60" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="105.0" y="95.0" font-size="14" text-anchor="middle" fill="#000">Clientes</text>
+<rect x="220" y="60" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="295.0" y="95.0" font-size="14" text-anchor="middle" fill="#000">CDN + WAF</text>
+<rect x="410" y="60" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="485.0" y="95.0" font-size="14" text-anchor="middle" fill="#000">Sala de espera</text>
+<rect x="600" y="60" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="675.0" y="95.0" font-size="14" text-anchor="middle" fill="#000">API Gateway</text>
+<rect x="790" y="60" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="865.0" y="95.0" font-size="14" text-anchor="middle" fill="#000">Serviço de Reserva</text>
+<rect x="220" y="220" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="295.0" y="255.0" font-size="14" text-anchor="middle" fill="#000">Pagamento externo</text>
+<rect x="410" y="220" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="485.0" y="255.0" font-size="14" text-anchor="middle" fill="#000">Serviço de Pagamento</text>
+<rect x="600" y="220" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="675.0" y="255.0" font-size="14" text-anchor="middle" fill="#000">Fila de mensagens</text>
+<rect x="790" y="220" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="865.0" y="255.0" font-size="14" text-anchor="middle" fill="#000">Redis (estoque)</text>
+<rect x="410" y="380" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="485.0" y="415.0" font-size="14" text-anchor="middle" fill="#000">Banco de dados</text>
+<rect x="600" y="380" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="675.0" y="415.0" font-size="14" text-anchor="middle" fill="#000">Notificação</text>
+<rect x="790" y="380" width="150" height="60" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="865.0" y="415.0" font-size="14" text-anchor="middle" fill="#000">Job de expiração</text>
+<path d="M180,90 L218,90" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M370,90 L408,90" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M560,90 L598,90" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M750,90 L788,90" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M865,120 L865,218" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M810,120 L810,170 L675,170 L675,218" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M600,250 L562,250" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M410,250 L372,250" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M485,280 L485,378" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M560,410 L598,410" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M865,380 L865,282" fill="none" stroke="#000" stroke-width="1.5" marker-end="url(#a)"/>
+</svg>
